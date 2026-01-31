@@ -112,3 +112,4 @@ export const handler = async (event) => {
   // we await our promise here and return the result (see the resolve above)
   return await paramQuery();
 };
+
